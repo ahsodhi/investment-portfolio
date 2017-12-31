@@ -8,7 +8,8 @@ Limitations of Program:
 • Due to the way prices are handled, there is no support for limit orders. If an investment is bought or sold at different price than the current price, it's current price is adjusted to match the buy/sell price.
 
 User Guide:
-1. Open Project Folder in NetBeans IDE
+1. Clone the repo.
+2. Open Project Folder in NetBeans IDE
 2. From the menu bar, choose Run->Run Project (Investment Portfolio)
 
 Program Test Plan:
@@ -22,8 +23,3 @@ The possible scenarios for this were:
 • Enter file name that does not exist as command line argument
 All these scenarios are handled appropriately by the program by letting the user try again.
 Defensive programming has also been exercised as the program is able to match reasonable input variations to the appropriate menu commands, but let's the user try again otherwise.
-
-Possible Improvements:
-• Add functionlity that would remove any of the existing limitations of the program mentioned earlier.
-• Add a command to cancel any operation. For example, if user changes their mind to not sell an investment, they can input 'cancel' to cancel the operation and return to home menu.
-• Add a GUI interface for better user experience.
