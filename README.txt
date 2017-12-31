@@ -1,4 +1,4 @@
-<img src="/dist/Capture.PNG?raw=true" />
+<img src="/dist/javadoc/Capture.PNG?raw=true" />
 
 Author: Anirudh Sodhi
 
