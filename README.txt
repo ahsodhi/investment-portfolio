@@ -1,3 +1,5 @@
+<img src="/dist/Capture.PNG?raw=true" />
+
 Author: Anirudh Sodhi
 
 Program Description:
